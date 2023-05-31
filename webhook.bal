@@ -43,6 +43,3 @@ service github:IssuesService on webhookListener {
 
 service /ignore on httpListener {
 }
-
-service /ignore on httpListener {
-}
